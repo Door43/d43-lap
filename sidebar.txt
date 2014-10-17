@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lap:home|Door43 (lap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lap|d43-lap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lap/archive/master.zip|d43-lap.zip]]
+
+**Recent Changes**
+{{changes>ns = lap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lap|Ethnologue data]]
+
